@@ -5,3 +5,6 @@ Please keep this file updated as you work on the project. Any links / context / 
 
 ### 30 Sep 2016 - CHRIS
 Repository created with .gitignore, README.md, and researchLog.md files added.
+
+### 28 Oct 2016 - Taylor
+Added qualitative coding file and the instructions to the repository. Also added a folder where PDFs of each ordinance will be stored.
