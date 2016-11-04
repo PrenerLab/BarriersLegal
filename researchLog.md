@@ -8,3 +8,6 @@ Repository created with .gitignore, README.md, and researchLog.md files added.
 
 ### 28 Oct 2016 - Taylor
 Added qualitative coding file and the instructions to the repository. Also added a folder where PDFs of each ordinance will be stored.
+
+### 03 Nov 2016 - Taylor
+Added a coding instructions file in .md and .pdf format. Renamed working coding spreadsheet to ordinanceCoding.xlsx. Renamed several variables.
