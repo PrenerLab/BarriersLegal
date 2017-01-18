@@ -4,8 +4,8 @@
 For every street closure in the city, there should be a corresponding city ordinance that ordered the closure. For analysis purposes, we need to qualitatively code these ordinances into a Stata-friendly format. This is a step by step guide for doing so. 
 
 #### Materials needed:  
-1. ordinanceCoding.xlsx (Primary working file - *Available on GitHub*)
-2. waldronCleaned.xlsx (Reference file - *Available on Github* in the BarriersWorking folder)
+1. ordinanceCoding.xlsx (Primary working file - *Available on GitHub* in BarriersLocating -> Excel)
+2. waldronCleaned.xlsx (Reference file - *Available on Github* in BarriersLocating -> Excel)
 3. The St. Louis City ordinance search engine (https://www.stlouis-mo.gov/government/city-laws/ordinances/)
 
 #### Instructions
@@ -15,10 +15,10 @@ The waldronCleaned.xlsx data contains every known street barrier in our database
 1. For a given barrier, go to the St. Louis City ordinance search engine and search for that barrier's ordinance number (column G in waldronCleaned.xlsx) **Note: Ordinances prior to 1991 exist only at the Central Branch of the St. Louis Public Library**
 2. Click the ordinance and verify that the intersection named in the ordinance actually corresponds with the intersection named in waldronCleaned.xlsx. 
 	* If the intersections match in our data and in the ordinance, proceed to enter the appropriate information into the "Matched" sheet in ordinanceCoding.xlsx.
-	* If the intersections do not match or the ordinance cannot be found, proceed to enter the barrier and its appropriate information into the "Unmatched" sheet in ordinanceCoding.xlsx
+	* If the intersections do not match or the ordinance cannot be found, proceed to enter the barrier and its corresponding information into the "Unmatched" sheet in ordinanceCoding.xlsx
 3. Each column corresponds with information in the city ordinance. Use the table below to assist in filling them out. 
 
-#### The following is a table describing each variable and their appropriate data entries for the "Matched" barriers
+#### The following table describes each variable and their appropriate data entries for the "Matched" barriers
 
 | Variable   | Description              | Possible Values       |
 | ---------- |:------------------------:| ---------------------:|
